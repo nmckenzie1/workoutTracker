@@ -21,7 +21,7 @@ mongoose.connect(MONGODB_URI, {
 })
 
 // Creating Routes
-// require("./routes/apiRoutes")(app);
+require("./routes/apiRoutes")(app);
 require("./routes/htmlRoutes")(app);
 
 // Starts the server to begin listening
