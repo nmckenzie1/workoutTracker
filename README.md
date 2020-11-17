@@ -1,6 +1,9 @@
 # Workout Tracker App
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-  
+
+  ![image](https://user-images.githubusercontent.com/68027063/99342455-81cba100-2851-11eb-8f5d-92cadbb54c35.png)
+
+   [Link to deployed App](https://obscure-harbor-08286.herokuapp.com/)  
   
   ## Table of Contents 
   * [About the Project](#about)
